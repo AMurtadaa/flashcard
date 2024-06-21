@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Murtadaa-s-workspace-fhe8qs.us-east-1.xata.sh/db/flashcard",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
